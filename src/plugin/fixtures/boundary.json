@@ -1,0 +1,19 @@
+{
+  "case": "boundary",
+  "pages": [
+    {
+      "id": "P0",
+      "url": "https://data.example/empty",
+      "http_status": 200,
+      "text": ""
+    }
+  ],
+  "claims": [
+    {
+      "id": "B1",
+      "page_id": "P0",
+      "url": "https://data.example/empty",
+      "excerpt": ""
+    }
+  ]
+}

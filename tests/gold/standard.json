@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "claim_id": "C1",
+      "reason": "verified"
+    },
+    {
+      "claim_id": "C2",
+      "reason": "http_error"
+    },
+    {
+      "claim_id": "C3",
+      "reason": "missing_page"
+    },
+    {
+      "claim_id": "C4",
+      "reason": "url_mismatch"
+    },
+    {
+      "claim_id": "C5",
+      "reason": "empty_excerpt"
+    },
+    {
+      "claim_id": "C6",
+      "reason": "nonverbatim"
+    },
+    {
+      "claim_id": "C7",
+      "reason": "nonverbatim"
+    },
+    {
+      "claim_id": "C8",
+      "reason": "verified"
+    }
+  ]
+}
